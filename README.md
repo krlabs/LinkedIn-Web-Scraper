@@ -1,6 +1,6 @@
 # LinkedIn-Web-Scraper
 
-A simple Web Scraper LinkedIn posts based on Python and Selenium WebDriver for Chrome web-browser.
+A simple Web Scraper of LinkedIn feed posts based on Python and Selenium WebDriver for Chrome browser.
 
 Needs Chromedriver latest version and Google Chrome Stable. Read guide: 
 
