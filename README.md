@@ -10,4 +10,4 @@ Copy scraperlnkdin.py to your local system, open and edit all credentials, then 
 $ python3 scraperlnkdin.py
 ```
 
-Script absolute automatic and no need nothing actions from you.
+Script automatic and no need nothing actions from you.
