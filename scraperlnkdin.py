@@ -29,7 +29,7 @@ login_button.click()
 WebDriverWait(driver, 10).until(EC.title_contains("LinkedIn"))
 
 # Перехід на сторінку з дописами LinkedIn вказаного користувача
-driver.get("https://www.linkedin.com/in/cybermolfar/recent-activity/all/")
+driver.get("https://www.linkedin.com/in/username/recent-activity/all/")
 
 # Автоматичне прокручування сторінки
 def scroll_to_bottom():
